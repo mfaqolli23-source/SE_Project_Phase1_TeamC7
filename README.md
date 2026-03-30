@@ -52,7 +52,6 @@ The application is a web-based platform that allows users to create accounts, lo
 - Browse ads by category  
 - Search and filter functionality  
 - Detailed ad view  
-- User-to-user contact system  
 
 ---
 
